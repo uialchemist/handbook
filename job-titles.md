@@ -1,7 +1,9 @@
-# Titles for developers
-We use the following criteria to assess the level and title of developers at Florence. These criteria aren't exhaustive, and they aren't mere checklists. They're a guidance to having an individualised discussion about career progression.
+# Job titles
+We use the following criteria to assess the level and title of employees at Florence. These criteria aren't exhaustive, and they aren't mere checklists. They're a guidance to having an individualised discussion about career progression.
 
 It should also be noted that we use the term _developer_ instead of _programmer_ or _engineer_, in order to make the distinction between a tech team and a product team. _Developer_ in this context means someone who works on developing a product as a whole, rather than just program software.
+
+## For developers
 
 ### Junior Developer
 * Work is thoroughly reviewed with substantial back'n'forth frequently needed before merging.
@@ -40,8 +42,7 @@ It should also be noted that we use the term _developer_ instead of _programmer_
 * Invents new concepts, pushes the whole organisation forward regularly.
 * Usually at least 12-15+ years of experience being a professional developer in the specific domain.
 
-# Titles for designers
-We only really use three titles for designers:
+## For designers
 
 ### UI/UX Designer
 * Work is reviewed with the occasional need for material direction or implementation changes.
