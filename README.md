@@ -5,7 +5,7 @@ This handbook attempts to clarify who we are as a company, what our values are a
 ## Sections
 * [Our values](https://github.com/team-florence/handbook/blob/master/our-values.md)
 * [Who does what?](https://github.com/team-florence/handbook/blob/master/who-does-what.md)
-* [Titles for developers](https://github.com/team-florence/handbook/blob/master/job-titles.md)
+* [Job titles](https://github.com/team-florence/handbook/blob/master/job-titles.md)
 * [Day-to-day workflows](https://github.com/team-florence/handbook/blob/master/day-to-day.md)
 
 ***
