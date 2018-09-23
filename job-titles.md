@@ -6,7 +6,7 @@ It should also be noted that we use the term _developer_ instead of _programmer_
 ## For developers
 
 ### Junior Developer
-* Work is thoroughly reviewed with substantial back'n'forth frequently needed before merging.
+* Work is thoroughly reviewed with substantial back and forth frequently needed before merging.
 * Basic language features are mastered, but some advanced structures may still be unfamiliar.
 * Occasional issues following patterns and approaches within existing code bases.
 * Works primarily on tightly scoped, routine problems.
