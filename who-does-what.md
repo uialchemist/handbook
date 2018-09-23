@@ -2,12 +2,10 @@
 
 Figuring out who to bring a particular issue or question to shouldn't be a guessing game. Most concerns fall pretty clearly within the responsibility of a specific team at Florence, and the head of that team should be the first point of contact. At the same time, every single person who works at Florence is approachable and friendly, more than willing to point you in the right direction. If you have a question, you're probably not the first, so speak up!
 
-Below you'll find a list of the major groups and teams within the company.
-
 ## Teams
-We have five teams at Florence, all sharing the overarching company goal of matching nurses with shifts.
+We have five main teams at Florence, all sharing the overarching company goal of matching nurses with shifts.
 
-1. Exec Team - co-founders working on company direction and operations
+1. Exec Team - working on company direction and operations
 2. Product Team - developers and designers working on building and improving the digital products
 3. Marketing Team - working on user acquisition and PR
 4. Client Team - working on client onboarding and retention
