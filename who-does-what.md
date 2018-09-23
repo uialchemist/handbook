@@ -4,6 +4,15 @@ Figuring out who to bring a particular issue or question to shouldn't be a guess
 
 Below you'll find a list of the major groups and teams within the company.
 
+## Teams
+We have five teams at Florence, all sharing the overarching company goal of matching nurses with shifts.
+
+1. Exec Team - co-founders working on company direction and operations
+2. Product Team - developers and designers working on building and improving the digital products
+3. Marketing Team - working on user acquisition and PR
+4. Client Team - working on client onboarding and retention
+5. Customer Success Team - working on nurse onboarding and retention
+
 ### Exec Team
 
 **Charles Armitage** (Co-Founder and Managing Director) manages the day-to-day operations of the company. He heads up the Client team. Charles is often the best person to tap first when you don't know who to talk to about a problem within the organisation.
@@ -45,3 +54,9 @@ The client team is in charge of acquiring new clients (care homes, etc) to the p
 * Rea Bulica
 * Sarah Tue-Fee
 * Tashana Murray Williams
+
+### Others
+In addition to the core teams we also have other people working either full- or part-time in different capacities:
+
+* Natalie O'Connor (accounting)
+* Samantha Mann (recruiting)
