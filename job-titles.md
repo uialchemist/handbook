@@ -1,7 +1,7 @@
 # Job titles
 We use the following criteria to assess the level and title of employees at Florence. These criteria aren't exhaustive, and they aren't mere checklists. They're a guidance to having an individualised discussion about career progression.
 
-It should also be noted that we use the term _developer_ instead of _programmer_ or _engineer_, in order to make the distinction between a tech team and a product team. _Developer_ in this context means someone who works on developing a product as a whole, rather than just program software.
+It should also be noted that we use the term _developer_ instead of _programmer_ or _engineer_, in order to make the distinction between a tech team and a product team. _Developer_ in this context means someone who works on developing a product as a whole, rather than just write software code.
 
 ## For developers
 
