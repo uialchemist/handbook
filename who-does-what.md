@@ -13,7 +13,7 @@ We have five main teams at Florence, all sharing the overarching company goal of
 
 ### Exec Team
 
-**Charles Armitage** (Co-Founder and Managing Director) manages the day-to-day operations of the company. He heads up the Client team. Charles is often the best person to tap first when you don't know who to talk to about a problem within the organisation.
+**Charles Armitage** (Co-Founder and Managing Director) manages the day-to-day operations of the company. Charles is often the best person to tap first when you don't know who to talk to about a problem within the organisation.
 
 **Dan Blake** (Co-Founder and Chief Operating Officer) manages operations strategy and policies and fosters employee alignment with corporate goals.
 
@@ -27,14 +27,14 @@ We have five main teams at Florence, all sharing the overarching company goal of
 
 ### Marketing Team
 
-**Bunie Anyaegbunam** (Chief Marketing Officer) is principally responsible for user acquisition and marketing our products. He heads up the marketing team, which includes the following Social Media Marketing Executives:
+**Bunie Anyaegbunam** (Chief Marketing Officer) is principally responsible for user acquisition and marketing our products. He is primarily responsible for the marketing team, which includes the following Social Media Marketing Executives:
 
 * Elysha Tonge
 * Lora Petrova
 
 ### Client Team
 
-The client team is in charge of acquiring new clients (care homes, etc) to the platform. Charles Armitage currently heads up this team, which includes the following Business Development Managers:
+The client team is in charge of acquiring new clients (care homes, etc) to the platform. Charles Armitage is primarily responsible for the team, which includes the following Business Development Managers:
 
 * Hiral Chohan
 * Sam Greenhalgh
@@ -42,7 +42,7 @@ The client team is in charge of acquiring new clients (care homes, etc) to the p
 
 ### Customer Sucess Team
 
-**Ruth Norman** (Customer Success Manager) is primarily responsible for for the team, which includes the following Customer Success Executives:
+**Ruth Norman** (Customer Success Manager) is primarily responsible for the team, which includes the following Customer Success Executives:
 
 * Hannah Moggridge (Team Leader)
 * Jomilsa Sousa (Team Leader)
