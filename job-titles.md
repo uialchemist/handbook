@@ -45,7 +45,7 @@ It should also be noted that we use the term _developer_ instead of _programmer_
 ## For designers
 
 ### UI/UX Designer
-* Work is reviewed with the occasional need for material direction or implementation changes.
+* Work is reviewed with the occasional need for material direction or creative changes.
 * Follows established patterns and approaches within existing design patterns with ease.
 * Works mostly on clearly defined and scoped individual features or problems.
 * Usually at least 2-5 years of experience being a professional designer in the specific domain.
