@@ -55,6 +55,7 @@ It should also be noted that we use the term _developer_ instead of _programmer_
 * Fully capable of taking substantial features from concept to handover.
 * Can provide material feedback on the work of other designers.
 * Basic proficiency in at least one additional design environment (mobile, web, etc).
+* Usually proficient in frontend development skills.
 * Usually at least 5-8 years of experience being a professional designer in the specific domain.
 
 ### Creative Director
