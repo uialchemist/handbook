@@ -10,4 +10,4 @@ This handbook attempts to clarify who we are as a company, what our values are a
 
 ***
 
-_Most of this handbook has been completely lifted from Basecamp's employee handbook, because they are awesome._
+_Some parts of this handbook have been completely lifted from Basecamp's employee handbook, because they are awesome._
