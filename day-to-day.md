@@ -1,5 +1,3 @@
-This article explains the preferred practices and day-to-day of being a Florence developer. Read through it at least once to understand how we work and why.
-
 ### 1. 'MVP:Extend' Methodology
 
 Florence operates under a startup methodology we call *MVP:Extend*, which in praxis means to implement any feature or issue with the *least possible time spent* doing so. This way we can launch features and fixes early and clean up later, if needed. The point of MVP:Extend is to see if anyone even uses the product or feature before investing too much time into making it great.
