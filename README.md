@@ -13,4 +13,4 @@ If you have reached this page from a job listing, welcome! It's worth reading th
 
 ***
 
-_Some parts of this handbook have been completely lifted from Basecamp's employee handbook, because they are awesome._
+_Some parts of this handbook have been completely lifted from Basecamp's employee handbook, because it's awesome._
