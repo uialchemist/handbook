@@ -70,37 +70,9 @@ We use pure SASS (not SCSS), and a mix between Object-Oriented CSS (OOCSS) and B
 
 ### 5. Refactoring
 
-If you need a break from a problem or normal day-to-day routines, feel free to spend time refactoring code into more elegant and/or performant solutions. For example, this isn't very DRY to include in every controller:
+If you need a break from a problem or normal day-to-day routines, feel free to spend time refactoring code into more elegant and/or performant solutions. We tend to use the excellent Ruby guides written by Deliveroo as a loose guide when we refactor: https://deliveroo.engineering/guidelines/
 
-```ruby
-# controller
-Notification.create(
-  notification_type: "Notice",
-  title: "Claim",
-  content: "[notification message]",
-  admin: true
-)
-```
-
-Instead we should abstract it into a Notification service:
-
-```ruby
-# controller
-Notification.create_admin_notice("Claim", "[notification message]")
-```
-```ruby
-# notification.rb
-def self.create_admin_notice(title, content)
-  create!(
-    notification_type: "Notice",
-    title: title,
-    content: content,
-    admin: true
-  )
-end
-```
-
-### 6. Rails
+### 6. Performance
 
 For anything under the banner of MVP, quick hacks like `.select` and `.count` is fine (not really), but always try to aim to do things performantly from the start. Can that `.select` be made into a `.where` instead? Are you using `.count` instead of the (in most cases) more performant `.size`? Are you using `.size > 0` instead of `.any?`, and so on.
 
