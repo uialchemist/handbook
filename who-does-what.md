@@ -30,7 +30,7 @@ We have five main teams at Florence, all sharing the overarching company goal of
 **Bunie Anyaegbunam** (Chief Marketing Officer) is principally responsible for user acquisition and marketing our products. He is primarily responsible for the marketing team, which includes the following Social Media Marketing Executives:
 
 * Elysha Tonge
-* Lora Petrova
+* Sarah Tue-Fee
 
 ### Client Team
 
@@ -50,7 +50,7 @@ The client team is in charge of acquiring new clients (care homes, etc) to the p
 * Marvin Sebanakitta
 * Mohammed Alom
 * Rea Bulica
-* Sarah Tue-Fee
+* Lora Petrova
 * Tashana Murray Williams
 
 ### Others
