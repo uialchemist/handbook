@@ -1,8 +1,10 @@
 # Open Positions
 To apply to any of these positions, please contact ib@florence.co.uk
 
+***
+
 ## Senior Data Scientist
-Florence is looking for a senior data scientist to come aboard and improve the way we handle and interpret data. The product team heavily relies on data for decision making, so you would be working closely with them to provide necessary information regarding user behaviour and market liquidity issues.
+Florence is looking for a senior data scientist to improve the way we approach, handle and interpret data. The product team heavily relies on data for decision making, so you would be working closely with them to provide necessary information regarding user behaviour and market liquidity issues. You would also be working closely with the management team to ensure strategic decisions are data-driven.
 
 ***
 
