@@ -21,7 +21,7 @@ We have five main teams at Florence, all sharing the overarching company goal of
 
 **Ib Warnerbring** (Chief Technology Officer + Head of Product) is principally responsible for the product, plans the development cycles, translates company goals into product decisions, and decides on overall creative direction.
 
-**Suze Deveraux** (Lead UX Designer) oversees the discovery phases and UX of our products and features.
+**Suzannah Devereux** (Lead UX Designer) oversees the discovery phases and UX of our products and features.
 
 **Tom Meehan** (Lead Developer) is primarily responsible for making sure our payment system runs properly, but he also works on several areas across all our products.
 
