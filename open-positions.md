@@ -32,7 +32,7 @@ We are looking for a senior iOS developer with experience managing a small mobil
 We are looking for a mobile UI designer with a strong portfolio and high attention to detail. You will be in charge of translating UX into UI together with the acting creative director. You will be part of a small three-man mobile team that will grow over time, so startup experience is essential. Our aim is to not only be industry leading, but also to push the envelope in terms of design in general, so an experimental and courageous design mindset is good to have.
 
 **Key responsibilities:**
-- Translating UX into UI
+- Translating UX into UI and interactive prototypes (if needed)
 - Using industry standard software like Sketch and Zeplin to create and share assets
 - Deliver clean and practical designs
 
