@@ -6,6 +6,7 @@ This handbook attempts to clarify who we are as a company, what our values are a
 * [Our values](https://github.com/team-florence/handbook/blob/master/our-values.md)
 * [Who does what?](https://github.com/team-florence/handbook/blob/master/who-does-what.md)
 * [Day-to-day workflows](https://github.com/team-florence/handbook/blob/master/day-to-day.md)
+* [Open positions at Florence](https://github.com/team-florence/handbook/blob/master/open-positions.md)
 
 ## Applying for a job
 If you have reached this page from a job listing, welcome! It's worth reading through our values and info about the company before applying to any positions at Florence. The above documents should give you a good sense on what to expect from a career at Florence. Once you're clear on what we do, please visit our [job application](https://github.com/team-florence/handbook/blob/master/job-application.md) page.
