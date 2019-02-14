@@ -19,6 +19,6 @@ Within the tech team we have the following verticals:
 
 2. Mobile Apps - this team maintains, improves and extends our iOS and Android apps. Mobile Apps is led by Pete Morris (Senior iOS Developer).
 
-Every vertical has its own Senior UI Designer, and all verticals are overseen by a Senior UX Architect and report to the CPO.
+Every vertical has its own Senior UI Designer, and the Core Products and Mobile Apps teams are overseen by a Senior UX Architect and report to the CPO.
 
 ![structure](https://i.imgur.com/9zN0dqy.png)
