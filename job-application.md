@@ -1,5 +1,5 @@
 # Applying for a job
-We are always on the lookout for exceptional talent, so even if you haven't found us via a job listing it's always worth getting in contact to see if you'll be a good fit at Florence. Keep in mind that _all interviews are done in person_ at our central London offices and never over the phone.
+We are always on the lookout for exceptional talent, so even if you haven't found us via a job listing it's always worth getting in contact to see if you'll be a good fit at Florence. Keep in mind that _all second-stage interviews are done in person_ at our central London offices and never over the phone.
 
 Here is how the job application works at Florence:
 
