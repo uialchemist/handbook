@@ -13,11 +13,11 @@ We have five primary teams at Florence, all sharing the overarching company goal
 ## Tech Team Structure
 Within the tech team we have the following verticals:
 
-0. Skunkworks - this team is the birthplace of standalone side projects and experimental features for the core products. Quick dirty hacks, guerilla marketing and MVP projects are some of the things this team focuses on.
+0. **Skunkworks** - this team is the birthplace of standalone side projects and experimental features for the core products. Quick dirty hacks, guerilla marketing and MVP projects are some of the things this team focuses on.
 
-1. Core Products - this team maintains, improves and extends our mature products like Florence (marketplace matching nurses with care homes) and Florence Academy (training platform for nurses). Core Products is led by Tom Wilshere (Principal Developer).
+1. **Core Products** - this team maintains, improves and extends our mature products like Florence (marketplace matching nurses with care homes) and Florence Academy (training platform for nurses). Core Products is led by Tom Wilshere (Principal Developer).
 
-2. Mobile Apps - this team maintains, improves and extends our iOS and Android apps. Mobile Apps is led by Pete Morris (Senior iOS Developer).
+2. **Mobile Apps** - this team maintains, improves and extends our iOS and Android apps. Mobile Apps is led by Pete Morris (Senior iOS Developer).
 
 Every vertical has its own Senior UI Designer, and the Core Products and Mobile Apps teams are overseen by a Senior UX Architect and report to the CPO.
 
