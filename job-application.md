@@ -8,4 +8,4 @@ Here is how the job application works at Florence:
 3. If we are all still happy with each other after this chat, we'll have you come in again to meet the key people in the company, again very informal chats. You can have a look at some stuff we're working on currently, and you can ask more in-depth questions if needed.
 4. I know you were expecting another step, but that's it. We do not perform any types of coding tests or design tasks, for a [multitude of reasons](https://github.com/team-florence/handbook/blob/master/coding-tests.md), and there is no panel or committee making any decisions. Your personality and culture fit is infinitely more important than anything else.
 
-If that sounds like a good plan, please send an email to samantha@florence.co.uk to get things started. If you are applying for a designer position, please attach your portfolio.
+If that sounds like a good plan, please send an email to sam@florence.co.uk to get things started. If you are applying for a designer position, please attach your portfolio.
