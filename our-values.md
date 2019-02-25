@@ -27,10 +27,10 @@ _Drive change and be part of something special_
 Florence changes a lot. We change the product often, we move around, we hire new people, we change targets and we sometimes make quick decisions. If you're scared of change and dislike bold decisions, Florence is not for you.
 
 **Always ask another question**  
-_Be curios, you never know where the answer will take you_
+_Be curious, you never know where the answer will take you_
 
 **Put yourself in their shoes**  
-_The users is at the heart of everything we do_
+_Our users are at the centre of everything we do_
 
 **Build a positive team**  
 _Be inclusive and accept each other’s differences_  
