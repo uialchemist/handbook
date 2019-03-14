@@ -17,7 +17,7 @@ It's important to not just say yes and jump into every request. If someone from 
 It's tempting to put in a lot of hours for whatever reasons. Maybe you're in the zone, maybe you have a subconscious drive to impress your co-workers - maybe you even feel pressured to do so. But please don't. You should look forward to going to work, but it's just a job at the end of the day. If you feel you aren't getting anything done today, go home. If you're a morning person that want to start work at 6am so you can go home after lunch, do so. If you're feeling stressed about working here, something has gone wrong.
 
 ## Overall company values
-In addition to the above product team specific values, Florence also has a set of company values that covers all teams. The company values can seem a bit fluffy, but they very accurately describe the current Florence workplace and are cornerstones in the hiring process.
+In addition to the above product team specific values, Florence also has a set of company values that cover all teams. The company values can seem a bit fluffy, but they very accurately describe the current Florence workplace atmosphere and are cornerstones in the hiring process.
 
 **Care about what you do**  
 _People that care make a bigger difference_
