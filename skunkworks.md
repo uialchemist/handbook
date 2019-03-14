@@ -1,6 +1,6 @@
-# Day-to-day workflows
+# Skunkworks
 
-This article explains the preferred practices and day-to-day of being a Florence developer. Read through it at least once to understand how we work and why.
+This article explains the preferred practices and day-to-day of the Skunkworks developer team at Florence. Read through it at least once to understand how we work and why.
 
 ### 1. 'MVP:Extend' Methodology
 
@@ -11,7 +11,7 @@ Here's an example of how we use MVP:Extend
 > **Feature Request**  
 > We want a help centre to better explain to users how the platform works, and to reduce customer service load. It should have search, categories, video posts, the ability to upvote/downvote and a CMS functionality so the team can add and edit articles.
 >   
-> **MVP**  
+> **MVP**  being
 > Let's look at what is actually necessary to launch this feature. All we need is for a user to find help on a specific topic. So for now we can easily remove categories, up/down voting, and video posts. We need the CMS portion so we can manage the articles, but it doesn't need to look good as it's only used for internal purposes. So the MVP of this feature could just be articles, search and a dirty CMS.
 >   
 > **Extend**  
