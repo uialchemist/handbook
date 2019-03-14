@@ -24,7 +24,7 @@ _People that care make a bigger difference_
 
 **Embrace the adventure**  
 _Drive change and be part of something special_  
-Florence changes a lot. We change the product often, we move around, we hire new people, we change targets and we sometimes make quick decisions. If you're scared of change and dislike bold decisions, Florence is not for you.
+Florence changes a lot. We change the product often, we move around, we hire new people, we change targets and we sometimes make quick decisions. If you're scared of change and if you're allergic to bold decisions, Florence is not for you.
 
 **Always ask another question**  
 _Be curious, you never know where the answer will take you_
